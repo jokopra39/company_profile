@@ -873,7 +873,7 @@ $url = ('report_cp.php?ID='+jo)
 //alert ($uu);
   window.location.href = $url;
  // window.location = "delete.php?ID=F1";
-
+//ini coba git cabang
 }
 
 
